@@ -21,11 +21,11 @@ The RC4 algorithm is a widely used symmetric stream cipher that efficiently encr
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/your-username/rc4-encryption-simulator.git
+    git clone https://github.com/roccograpisarda/RC4-example.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd rc4-encryption-simulator
+    cd RC4-example/src
     ```
 3. Install the required dependency:
     ```bash
