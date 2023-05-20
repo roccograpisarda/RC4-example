@@ -13,7 +13,7 @@ The RC4 algorithm is a widely used symmetric stream cipher that efficiently encr
 ├── LICENSE
 ├── README.md
 └── src
-    ├── main.py
+    ├── app.py
     └── RC4.py
 ```
 
